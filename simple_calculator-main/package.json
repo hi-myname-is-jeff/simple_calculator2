@@ -1,0 +1,16 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "A simple calculator module",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "mocha test_calculator.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "assert": "^2.0.0",
+    "husky": "^9.0.11",
+    "mocha": "^8.3.2"
+  }
+}
